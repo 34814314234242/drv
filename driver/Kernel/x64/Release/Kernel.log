@@ -1,0 +1,20 @@
+﻿  entry.cpp
+C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\Kernel\functions.h(8,48): warning C4312: "typ rzutowania": konwersja z "uint32_t" na "HANDLE" jest większej wielkości
+  (kompilowanie pliku źródłowego „entry.cpp”)
+  
+C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\Kernel\functions.h(6,33): warning C4305: "return": obcięcie z "NTSTATUS" do "bool"
+  (kompilowanie pliku źródłowego „entry.cpp”)
+  
+C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\Kernel\functions.h(26,47): warning C4312: "typ rzutowania": konwersja z "uint32_t" na "HANDLE" jest większej wielkości
+  (kompilowanie pliku źródłowego „entry.cpp”)
+  
+C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\Kernel\functions.h(24,31): warning C4305: "return": obcięcie z "NTSTATUS" do "bool"
+  (kompilowanie pliku źródłowego „entry.cpp”)
+  
+C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\Kernel\functions.h(43,47): warning C4312: "typ rzutowania": konwersja z "uint32_t" na "HANDLE" jest większej wielkości
+  (kompilowanie pliku źródłowego „entry.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: Wartość TargetPath(C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\x64\Release\.sys) jest niezgodna z wartością właściwości OutputFile obiektu Linker (C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\x64\Release\Kernel.sys). Może to spowodować, że projekt zostanie niepoprawnie skompilowany. Aby rozwiązać ten problem, upewnij się, że wartości właściwości $(OutDir), $(TargetName) i $(TargetExt) są zgodne z wartością określoną we właściwości %(Link.OutputFile). 
+  Trwa generowanie kodu
+  Zakończono generowanie kodu
+  Kernel.vcxproj -> C:\Users\kvbus\Desktop\windows-kernel-memory-research-main\driver\x64\Release\.sys
